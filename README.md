@@ -19,4 +19,3 @@ Test for encryption and decryption.\
 ![](https://github.com/pengycloud/malrc4/blob/main/screenshots/test.png)
 ## ⚠️Disclaimer
 ### This is for Educational purposes only!
-hmm
